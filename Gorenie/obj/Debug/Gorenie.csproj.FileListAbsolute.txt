@@ -1,0 +1,212 @@
+C:\Users\Nikolai.Rychagov\Desktop\Gorenie\Gorenie\bin\Debug\Gorenie.exe.config
+C:\Users\Nikolai.Rychagov\Desktop\Gorenie\Gorenie\obj\Debug\Gorenie.csprojResolveAssemblyReference.cache
+C:\Users\Nikolai.Rychagov\Desktop\Gorenie\Gorenie\obj\Debug\Gorenie.Form1.resources
+C:\Users\Nikolai.Rychagov\Desktop\Gorenie\Gorenie\obj\Debug\Gorenie.Properties.Resources.resources
+C:\Users\Nikolai.Rychagov\Desktop\Gorenie\Gorenie\obj\Debug\Gorenie.csproj.GenerateResource.Cache
+C:\Users\Nikolai.Rychagov\Desktop\Gorenie\Gorenie\bin\Debug\Gorenie.exe
+C:\Users\Nikolai.Rychagov\Desktop\Gorenie\Gorenie\bin\Debug\Gorenie.pdb
+C:\Users\Nikolai.Rychagov\Desktop\Gorenie\Gorenie\bin\Debug\GorenieDLL.dll
+C:\Users\Nikolai.Rychagov\Desktop\Gorenie\Gorenie\bin\Debug\GorenieDLL.pdb
+C:\Users\Nikolai.Rychagov\Desktop\Gorenie\Gorenie\obj\Debug\Gorenie.exe
+C:\Users\Nikolai.Rychagov\Desktop\Gorenie\Gorenie\obj\Debug\Gorenie.pdb
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.02\Gorenie\bin\Debug\Gorenie.exe.config
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.02\Gorenie\bin\Debug\Gorenie.exe
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.02\Gorenie\bin\Debug\Gorenie.pdb
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.02\Gorenie\bin\Debug\GorenieDLL.dll
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.02\Gorenie\bin\Debug\GorenieDLL.pdb
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.02\Gorenie\obj\Debug\Gorenie.csprojAssemblyReference.cache
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.02\Gorenie\obj\Debug\Gorenie.Form1.resources
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.02\Gorenie\obj\Debug\Gorenie.Properties.Resources.resources
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.02\Gorenie\obj\Debug\Gorenie.csproj.GenerateResource.cache
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.02\Gorenie\obj\Debug\Gorenie.csproj.CopyComplete
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.02\Gorenie\obj\Debug\Gorenie.exe
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.02\Gorenie\obj\Debug\Gorenie.pdb
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.03\Gorenie\bin\Debug\Gorenie.exe.config
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.03\Gorenie\bin\Debug\Gorenie.exe
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.03\Gorenie\bin\Debug\Gorenie.pdb
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.03\Gorenie\bin\Debug\GorenieDLL.dll
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.03\Gorenie\bin\Debug\GorenieDLL.pdb
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.03\Gorenie\obj\Debug\Gorenie.csprojAssemblyReference.cache
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.03\Gorenie\obj\Debug\Gorenie.Form1.resources
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.03\Gorenie\obj\Debug\Gorenie.Properties.Resources.resources
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.03\Gorenie\obj\Debug\Gorenie.csproj.GenerateResource.cache
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.03\Gorenie\obj\Debug\Gorenie.csproj.CopyComplete
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.03\Gorenie\obj\Debug\Gorenie.exe
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.03\Gorenie\obj\Debug\Gorenie.pdb
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.04\Gorenie\bin\Debug\Gorenie.exe.config
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.04\Gorenie\bin\Debug\Gorenie.exe
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.04\Gorenie\bin\Debug\Gorenie.pdb
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.04\Gorenie\bin\Debug\GorenieDLL.dll
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.04\Gorenie\bin\Debug\GorenieDLL.pdb
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.04\Gorenie\obj\Debug\Gorenie.csprojAssemblyReference.cache
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.04\Gorenie\obj\Debug\Gorenie.Form1.resources
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.04\Gorenie\obj\Debug\Gorenie.Properties.Resources.resources
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.04\Gorenie\obj\Debug\Gorenie.csproj.GenerateResource.cache
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.04\Gorenie\obj\Debug\Gorenie.csproj.CopyComplete
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.04\Gorenie\obj\Debug\Gorenie.exe
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.04\Gorenie\obj\Debug\Gorenie.pdb
+F:\1\Gorenie.v.19.11.05\Gorenie\bin\Debug\Gorenie.exe.config
+F:\1\Gorenie.v.19.11.05\Gorenie\obj\Debug\Gorenie.exe
+F:\1\Gorenie.v.19.11.05\Gorenie\obj\Debug\Gorenie.pdb
+F:\1\Gorenie.v.19.11.05\Gorenie\bin\Debug\Gorenie.exe
+F:\1\Gorenie.v.19.11.05\Gorenie\bin\Debug\Gorenie.pdb
+F:\1\Gorenie.v.19.11.05\Gorenie\bin\Debug\GorenieDLL.dll
+F:\1\Gorenie.v.19.11.05\Gorenie\bin\Debug\GorenieDLL.pdb
+F:\1\Gorenie.v.19.11.05\Gorenie\obj\Debug\Gorenie.csprojResolveAssemblyReference.cache
+F:\1\Gorenie.v.19.11.05\Gorenie\obj\Debug\Gorenie.Form1.resources
+F:\1\Gorenie.v.19.11.05\Gorenie\obj\Debug\Gorenie.Properties.Resources.resources
+F:\1\Gorenie.v.19.11.05\Gorenie\obj\Debug\Gorenie.csproj.GenerateResource.Cache
+F:\1\Gorenie.v.19.11.05\Gorenie\obj\Debug\RdlCompile.cache
+F:\1\Gorenie.v.19.11.05\Gorenie\obj\Debug\RdlCompile.compiled
+F:\1\Gorenie.v.19.11.05\Gorenie\obj\Debug\Gorenie.FormReport.resources
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.05\Gorenie\obj\Debug\Gorenie.csprojAssemblyReference.cache
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.05\Gorenie\obj\Debug\Gorenie.Form1.resources
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.05\Gorenie\obj\Debug\Gorenie.Properties.Resources.resources
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.05\Gorenie\obj\Debug\Gorenie.csproj.GenerateResource.cache
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.05\Gorenie\obj\Debug\Gorenie.exe
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.05\Gorenie\obj\Debug\Gorenie.pdb
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.05\Gorenie\bin\Debug\Gorenie.exe.config
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.05\Gorenie\bin\Debug\Gorenie.exe
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.05\Gorenie\bin\Debug\Gorenie.pdb
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.05\Gorenie\bin\Debug\GorenieDLL.dll
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.05\Gorenie\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.05\Gorenie\bin\Debug\GorenieDLL.pdb
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.05\Gorenie\obj\Debug\Gorenie.csproj.CopyComplete
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.06.1\Gorenie\bin\Debug\Gorenie.exe.config
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.06.1\Gorenie\bin\Debug\Gorenie.exe
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.06.1\Gorenie\bin\Debug\Gorenie.pdb
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.06.1\Gorenie\bin\Debug\GorenieDLL.dll
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.06.1\Gorenie\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.06.1\Gorenie\bin\Debug\GorenieDLL.pdb
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.06.1\Gorenie\obj\Debug\Gorenie.csprojAssemblyReference.cache
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.06.1\Gorenie\obj\Debug\Gorenie.Form1.resources
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.06.1\Gorenie\obj\Debug\Gorenie.Properties.Resources.resources
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.06.1\Gorenie\obj\Debug\Gorenie.csproj.GenerateResource.cache
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.06.1\Gorenie\obj\Debug\RdlCompile.cache
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.06.1\Gorenie\obj\Debug\RdlCompile.compiled
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.06.1\Gorenie\obj\Debug\Gorenie.csproj.CopyComplete
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.06.1\Gorenie\obj\Debug\Gorenie.exe
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.06.1\Gorenie\obj\Debug\Gorenie.pdb
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.06.1\Gorenie\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.06.1\Gorenie\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.06.1\Gorenie\obj\Debug\Gorenie.FormReportGaz.resources
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.06.1\Gorenie\obj\Debug\Gorenie.FormReportOptionsGaz.resources
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.07\Gorenie\bin\Debug\Gorenie.exe.config
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.07\Gorenie\bin\Debug\Gorenie.exe
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.07\Gorenie\bin\Debug\Gorenie.pdb
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.07\Gorenie\bin\Debug\GorenieDLL.dll
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.07\Gorenie\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.07\Gorenie\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.07\Gorenie\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.07\Gorenie\bin\Debug\GorenieDLL.pdb
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.07\Gorenie\obj\Debug\Gorenie.csprojAssemblyReference.cache
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.07\Gorenie\obj\Debug\Gorenie.Form1.resources
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.07\Gorenie\obj\Debug\Gorenie.FormReportGaz.resources
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.07\Gorenie\obj\Debug\Gorenie.FormReportOptionsGaz.resources
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.07\Gorenie\obj\Debug\Gorenie.Properties.Resources.resources
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.07\Gorenie\obj\Debug\Gorenie.csproj.GenerateResource.cache
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.07\Gorenie\obj\Debug\RdlCompile.cache
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.07\Gorenie\obj\Debug\RdlCompile.compiled
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.07\Gorenie\obj\Debug\Gorenie.csproj.CopyComplete
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.07\Gorenie\obj\Debug\Gorenie.exe
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.07\Gorenie\obj\Debug\Gorenie.pdb
+F:\1\Gorenie.v.19.11.07\Gorenie\bin\Debug\Gorenie.exe.config
+F:\1\Gorenie.v.19.11.07\Gorenie\obj\Debug\Gorenie.exe
+F:\1\Gorenie.v.19.11.07\Gorenie\obj\Debug\Gorenie.pdb
+F:\1\Gorenie.v.19.11.07\Gorenie\bin\Debug\Gorenie.exe
+F:\1\Gorenie.v.19.11.07\Gorenie\bin\Debug\Gorenie.pdb
+F:\1\Gorenie.v.19.11.07\Gorenie\bin\Debug\GorenieDLL.dll
+F:\1\Gorenie.v.19.11.07\Gorenie\bin\Debug\GorenieDLL.pdb
+F:\1\Gorenie.v.19.11.07\Gorenie\obj\Debug\Gorenie.csprojResolveAssemblyReference.cache
+F:\1\Gorenie.v.19.11.07\Gorenie\obj\Debug\Gorenie.Form1.resources
+F:\1\Gorenie.v.19.11.07\Gorenie\obj\Debug\Gorenie.FormReportOptionsGaz.resources
+F:\1\Gorenie.v.19.11.07\Gorenie\obj\Debug\Gorenie.Properties.Resources.resources
+F:\1\Gorenie.v.19.11.07\Gorenie\obj\Debug\Gorenie.csproj.GenerateResource.Cache
+F:\1\Gorenie.v.19.11.07\Gorenie\obj\Debug\RdlCompile.cache
+F:\1\Gorenie.v.19.11.07\Gorenie\obj\Debug\RdlCompile.compiled
+F:\1\Gorenie.v.19.11.07\Gorenie\obj\Debug\Gorenie.FrmReportGaz.resources
+F:\1\Gorenie.v.19.11.07\Gorenie\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+F:\1\Gorenie.v.19.11.07\Gorenie\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\1\Gorenie.v.19.11.07\Gorenie\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+F:\1\Gorenie.v.19.11.07\Gorenie\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\1\Gorenie.v.19.11.07\Gorenie\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.08.1\Gorenie\obj\Debug\Gorenie.csprojAssemblyReference.cache
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.08.1\Gorenie\obj\Debug\Gorenie.Form1.resources
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.08.1\Gorenie\obj\Debug\Gorenie.FrmReportGaz.resources
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.08.1\Gorenie\obj\Debug\Gorenie.Properties.Resources.resources
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.08.1\Gorenie\obj\Debug\Gorenie.csproj.GenerateResource.cache
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.08.1\Gorenie\obj\Debug\RdlCompile.cache
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.08.1\Gorenie\obj\Debug\RdlCompile.compiled
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.08.1\Gorenie\obj\Debug\Gorenie.exe
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.08.1\Gorenie\obj\Debug\Gorenie.pdb
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.08.1\Gorenie\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.08.1\Gorenie\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.08.1\Gorenie\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.08.1\Gorenie\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.08.1\Gorenie\bin\Debug\Gorenie.exe.config
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.08.1\Gorenie\bin\Debug\Gorenie.exe
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.08.1\Gorenie\bin\Debug\Gorenie.pdb
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.08.1\Gorenie\bin\Debug\GorenieDLL.dll
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.08.1\Gorenie\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.08.1\Gorenie\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.08.1\Gorenie\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.08.1\Gorenie\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.08.1\Gorenie\bin\Debug\GorenieDLL.pdb
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.08.1\Gorenie\obj\Debug\Gorenie.csproj.CopyComplete
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.08.1\Gorenie\obj\Debug\Gorenie.frmReportTverd.resources
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.08.1\Gorenie\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.08.1\Gorenie\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.09\Gorenie\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.09\Gorenie\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.09\Gorenie\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.09\Gorenie\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.09\Gorenie\bin\Debug\Gorenie.exe.config
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.09\Gorenie\bin\Debug\Gorenie.exe
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.09\Gorenie\bin\Debug\Gorenie.pdb
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.09\Gorenie\bin\Debug\GorenieDLL.dll
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.09\Gorenie\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.09\Gorenie\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.09\Gorenie\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.09\Gorenie\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.09\Gorenie\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.09\Gorenie\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.09\Gorenie\bin\Debug\GorenieDLL.pdb
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.09\Gorenie\obj\Debug\Gorenie.csprojAssemblyReference.cache
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.09\Gorenie\obj\Debug\Gorenie.Form1.resources
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.09\Gorenie\obj\Debug\Gorenie.FrmReportGaz.resources
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.09\Gorenie\obj\Debug\Gorenie.frmReportTverd.resources
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.09\Gorenie\obj\Debug\Gorenie.Properties.Resources.resources
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.09\Gorenie\obj\Debug\Gorenie.csproj.GenerateResource.cache
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.09\Gorenie\obj\Debug\RdlCompile.cache
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.09\Gorenie\obj\Debug\RdlCompile.compiled
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.09\Gorenie\obj\Debug\Gorenie.csproj.CopyComplete
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.09\Gorenie\obj\Debug\Gorenie.exe
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.09\Gorenie\obj\Debug\Gorenie.pdb
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.10\Gorenie\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.10\Gorenie\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.10\Gorenie\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.10\Gorenie\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.10\Gorenie\bin\Debug\Gorenie.exe.config
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.10\Gorenie\bin\Debug\Gorenie.exe
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.10\Gorenie\bin\Debug\Gorenie.pdb
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.10\Gorenie\bin\Debug\GorenieDLL.dll
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.10\Gorenie\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.10\Gorenie\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.10\Gorenie\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.10\Gorenie\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.10\Gorenie\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.10\Gorenie\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.10\Gorenie\bin\Debug\NPlot.dll
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.10\Gorenie\bin\Debug\GorenieDLL.pdb
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.10\Gorenie\obj\Debug\Gorenie.csprojAssemblyReference.cache
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.10\Gorenie\obj\Debug\Gorenie.Form1.resources
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.10\Gorenie\obj\Debug\Gorenie.FrmReportGaz.resources
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.10\Gorenie\obj\Debug\Gorenie.frmReportTverd.resources
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.10\Gorenie\obj\Debug\Gorenie.PlotSurface2DDemo.resources
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.10\Gorenie\obj\Debug\Gorenie.Properties.Resources.resources
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.10\Gorenie\obj\Debug\Gorenie.csproj.GenerateResource.cache
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.10\Gorenie\obj\Debug\RdlCompile.cache
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.10\Gorenie\obj\Debug\RdlCompile.compiled
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.10\Gorenie\obj\Debug\Gorenie.csproj.CopyComplete
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.10\Gorenie\obj\Debug\Gorenie.exe
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.10\Gorenie\obj\Debug\Gorenie.pdb

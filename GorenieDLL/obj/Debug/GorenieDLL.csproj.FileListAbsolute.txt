@@ -1,0 +1,55 @@
+C:\Users\Nikolai.Rychagov\Desktop\Gorenie\GorenieDLL\obj\Debug\GorenieDLL.csprojResolveAssemblyReference.cache
+C:\Users\Nikolai.Rychagov\Desktop\Gorenie\GorenieDLL\bin\Debug\GorenieDLL.dll
+C:\Users\Nikolai.Rychagov\Desktop\Gorenie\GorenieDLL\bin\Debug\GorenieDLL.pdb
+C:\Users\Nikolai.Rychagov\Desktop\Gorenie\GorenieDLL\obj\Debug\GorenieDLL.dll
+C:\Users\Nikolai.Rychagov\Desktop\Gorenie\GorenieDLL\obj\Debug\GorenieDLL.pdb
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.02\GorenieDLL\bin\Debug\GorenieDLL.dll
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.02\GorenieDLL\bin\Debug\GorenieDLL.pdb
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.02\GorenieDLL\obj\Debug\GorenieDLL.csprojAssemblyReference.cache
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.02\GorenieDLL\obj\Debug\GorenieDLL.dll
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.02\GorenieDLL\obj\Debug\GorenieDLL.pdb
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.03\GorenieDLL\bin\Debug\GorenieDLL.dll
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.03\GorenieDLL\bin\Debug\GorenieDLL.pdb
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.03\GorenieDLL\obj\Debug\GorenieDLL.csprojAssemblyReference.cache
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.03\GorenieDLL\obj\Debug\GorenieDLL.dll
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.03\GorenieDLL\obj\Debug\GorenieDLL.pdb
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.04\GorenieDLL\bin\Debug\GorenieDLL.dll
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.04\GorenieDLL\bin\Debug\GorenieDLL.pdb
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.04\GorenieDLL\obj\Debug\GorenieDLL.csprojAssemblyReference.cache
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.04\GorenieDLL\obj\Debug\GorenieDLL.dll
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.04\GorenieDLL\obj\Debug\GorenieDLL.pdb
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.05\GorenieDLL\bin\Debug\GorenieDLL.dll
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.05\GorenieDLL\bin\Debug\GorenieDLL.pdb
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.05\GorenieDLL\obj\Debug\GorenieDLL.csprojAssemblyReference.cache
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.05\GorenieDLL\obj\Debug\GorenieDLL.dll
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.05\GorenieDLL\obj\Debug\GorenieDLL.pdb
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.06.1\GorenieDLL\bin\Debug\GorenieDLL.dll
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.06.1\GorenieDLL\bin\Debug\GorenieDLL.pdb
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.06.1\GorenieDLL\obj\Debug\GorenieDLL.dll
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.06.1\GorenieDLL\obj\Debug\GorenieDLL.pdb
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.06.1\GorenieDLL\obj\Debug\GorenieDLL.csprojAssemblyReference.cache
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.07\GorenieDLL\bin\Debug\GorenieDLL.dll
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.07\GorenieDLL\bin\Debug\GorenieDLL.pdb
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.07\GorenieDLL\obj\Debug\GorenieDLL.csprojAssemblyReference.cache
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.07\GorenieDLL\obj\Debug\GorenieDLL.dll
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.07\GorenieDLL\obj\Debug\GorenieDLL.pdb
+F:\1\Gorenie.v.19.11.07\GorenieDLL\obj\Debug\GorenieDLL.csprojResolveAssemblyReference.cache
+F:\1\Gorenie.v.19.11.07\GorenieDLL\obj\Debug\GorenieDLL.dll
+F:\1\Gorenie.v.19.11.07\GorenieDLL\bin\Debug\GorenieDLL.dll
+F:\1\Gorenie.v.19.11.07\GorenieDLL\bin\Debug\GorenieDLL.pdb
+F:\1\Gorenie.v.19.11.07\GorenieDLL\obj\Debug\GorenieDLL.pdb
+F:\1\Gorenie.v.19.11.07\GorenieDLL\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+F:\1\Gorenie.v.19.11.07\GorenieDLL\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\1\Gorenie.v.19.11.07\GorenieDLL\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+F:\1\Gorenie.v.19.11.07\GorenieDLL\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\1\Gorenie.v.19.11.07\GorenieDLL\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.08.1\GorenieDLL\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.08.1\GorenieDLL\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.08.1\GorenieDLL\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.08.1\GorenieDLL\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.08.1\GorenieDLL\bin\Debug\GorenieDLL.dll
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.08.1\GorenieDLL\bin\Debug\GorenieDLL.pdb
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.08.1\GorenieDLL\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.08.1\GorenieDLL\obj\Debug\GorenieDLL.csproj.CopyComplete
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.08.1\GorenieDLL\obj\Debug\GorenieDLL.dll
+C:\Users\nikol\Desktop\Магистратура 1 курс\КР по РПО\Source\Gorenie.v.19.11.08.1\GorenieDLL\obj\Debug\GorenieDLL.pdb
